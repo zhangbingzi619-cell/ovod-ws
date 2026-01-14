@@ -1,0 +1,24 @@
+{
+  "seen_mAP50": 0.7326737626145282,
+  "unseen_mAP50": 0.40633276401537854,
+  "harmonic_mean": 0.5227526763443072,
+  "statistics": {
+    "total_images": 148,
+    "total_detections": 566,
+    "seen_detections": 144,
+    "unseen_detections": 422,
+    "seen_classes_detected": 9,
+    "unseen_classes_detected": 11,
+    "avg_confidence_seen": 0.6922458753817611,
+    "avg_confidence_unseen": 0.26405465885361223
+  },
+  "unseen_confidence_stats": {
+    "mean": 0.26405465885361223,
+    "median": 0.2624712884426117,
+    "std": 0.009794033809468888,
+    "min": 0.2500011920928955,
+    "max": 0.32352954149246216,
+    "above_0.3": 0.002369668246445498,
+    "above_0.4": 0.0
+  }
+}
